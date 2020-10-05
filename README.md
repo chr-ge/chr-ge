@@ -23,6 +23,7 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![CircleCi](https://img.shields.io/badge/-CircleCi-black?style=flat-square&logo=circleci)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 

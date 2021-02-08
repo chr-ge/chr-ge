@@ -1,6 +1,6 @@
 ## 🌊 I'm currently working on...
 
-- **Kalabam**: NextJs / React / MongoDB / Pusher / Chakra-UI / Vercel
+- **Kalabam**: NextJs / React / MongoDB / Pusher / Chakra-UI / Vercel / AWS
 
 ## ⚡ Technologies
 

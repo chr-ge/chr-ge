@@ -1,8 +1,6 @@
-## 🌊 About Me
+## 🌊 I'm currently working on...
 
-- 💻 𝙸'𝚖 𝚊 𝚏𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛.
-- 🔨 𝙸'𝚖 𝚊 𝚏𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚠𝚎𝚋 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚊𝚝 𝟹𝙳𝙼.
-- 💡 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 on a 𝙽𝚎𝚡𝚝 𝙹𝚜 𝚙𝚛𝚘𝚓e𝚌𝚝.
+- **Kalabam**: NextJs / React / MongoDB / Pusher / Chakra-UI
 
 ## ⚡ Technologies
 

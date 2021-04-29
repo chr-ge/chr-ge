@@ -25,6 +25,5 @@
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![CircleCi](https://img.shields.io/badge/-CircleCi-black?style=flat-square&logo=circleci)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=chr-ge&count_private=true&show_icons=true&include_all_commits=true&hide=issues&theme=graywhite)

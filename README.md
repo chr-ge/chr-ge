@@ -5,4 +5,4 @@
 
 ## 🔭 Tech stack
 
-![Tech stack](https://skillicons.dev/icons?i=typescript,react,nextjs,nodejs,nestjs,graphql,tailwindcss,aws)
+![Tech stack](https://skillicons.dev/icons?i=typescript,react,nextjs,nodejs,nestjs,graphql,tailwindcss,terraform,aws)
